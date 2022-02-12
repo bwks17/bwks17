@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bwks17
+- 👀 I’m interested in back-end development and discord.js
+- 🌱 I’m currently learning Java and SQL
+- 📫 How to reach me: gianniskalogiannis08@gmail.com OR _kalojohn on instagram
